@@ -1,0 +1,76 @@
+feature,subject,day2_accuracy,day3_accuracy,delta,day2_source,day2_column,day3_source,day3_column
+Envelope,sub-01,35.63096500530223,24.778761061946906,10.852203943355324,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-02,42.09968186638388,52.21238938053098,-10.112707514147097,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-03,31.60127253446447,45.13274336283185,-13.531470828367382,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-04,29.16224814422057,30.973451327433622,-1.8112031832130526,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-05,43.47826086956522,51.32743362831859,-7.849172758753369,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-06,49.840933191940614,38.05309734513274,11.787835846807873,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-07,35.2067868504772,47.78761061946903,-12.580823768991827,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-08,30.010604453870627,39.823008849557525,-9.812404395686897,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-09,47.720042417815485,31.858407079646017,15.861635338169467,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-10,37.96394485683987,53.98230088495575,-16.018356028115875,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-11,49.52279957582185,30.08849557522124,19.43430400060061,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-12,37.96394485683987,35.39823008849557,2.5657147683443,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-13,46.447507953340406,29.20353982300885,17.243968130331556,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-14,24.920466595970307,34.51327433628318,-9.592807740312875,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-15,30.646871686108167,34.51327433628318,-3.866402650175015,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-16,34.994697773064686,43.36283185840708,-8.36813408534239,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-17,21.527041357370095,28.31858407079646,-6.791542713426367,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-18,29.48038176033934,37.16814159292036,-7.6877598325810155,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-19,41.675503711558854,52.21238938053098,-10.536885668972126,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-20,27.465535524920465,35.39823008849557,-7.932694563575108,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-21,33.19194061505832,39.823008849557525,-6.631068234499203,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-22,50.79533404029692,32.743362831858406,18.051971208438516,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-23,37.433722163308595,24.778761061946906,12.654961101361689,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-24,36.58536585365854,45.13274336283185,-8.547377509173316,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Envelope,sub-25,36.47932131495228,26.548672566371685,9.930648748580595,module_A_intra_domain/envelope/neurascan.csv,r1.0,module_B_sda/envelope/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-01,36.90349946977731,20.35398230088496,16.549517168892347,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-02,45.59915164369035,54.86725663716814,-9.268104993477792,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-03,32.97985153764581,44.24778761061947,-11.267936072973662,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-04,31.495227995758217,33.6283185840708,-2.13309058831258,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-05,48.67444326617179,52.21238938053098,-3.537946114359187,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-06,56.30965005302227,41.5929203539823,14.716729699039966,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-07,39.76670201484623,50.44247787610619,-10.675775861259957,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-08,31.91940615058325,39.823008849557525,-7.903602698974275,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-09,53.02226935312832,38.05309734513274,14.969172007995581,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-10,42.84199363732768,65.48672566371681,-22.64473202638913,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-11,51.00742311770944,30.08849557522124,20.918927542488202,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-12,41.78154825026511,38.93805309734513,2.843495152919978,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-13,53.23435843054083,33.6283185840708,19.606039846470033,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-14,32.13149522799576,47.78761061946903,-15.656115391473271,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-15,30.54082714740191,37.16814159292036,-6.627314445518447,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-16,36.691410392364794,46.017699115044245,-9.32628872267945,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-17,24.390243902439025,28.31858407079646,-3.928340168357437,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-18,31.60127253446447,33.6283185840708,-2.0270460496063265,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-19,47.61399787910923,53.98230088495575,-6.368303005846521,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-20,27.25344644750795,32.743362831858406,-5.489916384350455,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-21,38.3881230116649,50.44247787610619,-12.054354864441287,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-22,57.05196182396607,38.05309734513274,18.998864478833326,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-23,41.03923647932132,30.973451327433622,10.065785151887695,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-24,36.58536585365854,46.90265486725664,-10.317289013598106,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+Mel-10,sub-25,36.47932131495228,23.00884955752212,13.470471757430161,module_A_intra_domain/mel_10/neurascan.csv,r1.0,module_B_sda/mel_10/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-01,35.949098621421,23.00884955752212,12.940249063898882,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-02,56.30965005302227,61.06194690265486,-4.752296849632593,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-03,30.965005302226935,35.39823008849557,-4.433224786268639,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-04,40.29692470837752,38.93805309734513,1.3588716110323844,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-05,46.02332979851538,46.017699115044245,0.0056306834711321585,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-06,60.76352067868505,46.90265486725664,13.860865811428404,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-07,38.49416755037115,39.823008849557525,-1.3288412991863723,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-08,40.721102863202546,58.4070796460177,-17.685976782815153,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-09,57.79427359490986,46.017699115044245,11.776574479865616,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-10,46.23541887592789,64.60176991150442,-18.36635103557653,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-11,57.79427359490986,19.469026548672566,38.325247046237294,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-12,53.128313891834566,47.78761061946903,5.340703272365538,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-13,54.2948038176034,40.70796460176992,13.586839215833479,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-14,41.251325556733825,44.24778761061947,-2.9964620538856437,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-15,40.61505832449629,36.283185840707965,4.331872483788324,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-16,54.93107104984093,47.78761061946903,7.143460430371903,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-17,35.31283138918346,38.05309734513274,-2.7402659559492832,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-18,39.978791092258746,42.47787610619469,-2.4990850139359466,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-19,57.15800636267232,48.67256637168141,8.485439990990905,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-20,45.49310710498409,50.44247787610619,-4.949370771122098,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-21,37.53976670201485,42.47787610619469,-4.938109404179841,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-22,63.73276776246023,44.24778761061947,19.48498015184076,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-23,43.47826086956522,26.548672566371685,16.929588303193533,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-24,41.993637327677625,51.32743362831859,-9.333796300640962,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0
+wav2vec 2.0,sub-25,36.90349946977731,21.238938053097343,15.664561416679966,module_A_intra_domain/wav2vecbase9/neurascan.csv,r1.0,module_B_sda/wav2vecbase9/neurascan_to_brk.csv,S1_r1.0

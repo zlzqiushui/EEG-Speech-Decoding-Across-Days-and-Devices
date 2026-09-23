@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# large / machine-specific artifacts that are not part of this release
+logs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz

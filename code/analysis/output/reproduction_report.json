@@ -1,0 +1,187 @@
+{
+  "status": "passed",
+  "training_rerun": false,
+  "inputs": {
+    "files": [
+      {
+        "path": "module_A_intra_domain/envelope/day1.json",
+        "sha256": "0545e2c9a563ca9f7d78086a523ee4e83e204380948b678a1bec128fa44f9794",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/envelope/day2.json",
+        "sha256": "6c4842a3a383dd27d2887b193a72cef5663cf980871d9d5c92ea1565092cf8cf",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/envelope/brk.json",
+        "sha256": "e6bca890489c958d21a3c81a21e5c8ee389036e1fb1474505e992b3817e53959",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/envelope/neurascan.json",
+        "sha256": "68e3ca28c02b60314561113db09a54ca1d77f3dd1bdce24208e7d05bd0f4f6c2",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/mel_10/day1.json",
+        "sha256": "fed340d14108a800761a2020aad5cac214c080835c13c0ca13eaaaa92c5d5af0",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/mel_10/day2.json",
+        "sha256": "a3ba068bf1148eb3bc0617bdac2f1d4285989b5cf0ed866a851d361e13ad91df",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/mel_10/brk.json",
+        "sha256": "ed03ecedba8726b604f6132de492084cc3a3b9fba0a6dbb3e078c77c5aaf6bc7",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/mel_10/neurascan.json",
+        "sha256": "90c3c450fbfc757a372f77aeb3dc9896a7e417fe2a9a63d44b0dfdf3f62e742e",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/wav2vecbase9/day1.json",
+        "sha256": "72ff2433f639abbaddc35256952b3ef2ecdd990f5e87447f0a7ed67845ca0867",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/wav2vecbase9/day2.json",
+        "sha256": "143517b710e1dac074a465a14521cbec8fb8c3f6d167afa9e9e8c5dce9361abd",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/wav2vecbase9/brk.json",
+        "sha256": "01c290e3483545f423561ad2efef7a448a60c5bcd51f53ce68c90c7eadb96440",
+        "missing_cells": []
+      },
+      {
+        "path": "module_A_intra_domain/wav2vecbase9/neurascan.json",
+        "sha256": "3eb23234f5cc9f18a01de3aa9cc423b5d7e9304b973ff30e1c84c5de64a78a93",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/envelope/day1_to_day2.json",
+        "sha256": "a1666c0c9c46911090c08e3b8696344a3b82d4668afb069c6b719bd6b2da38b3",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/envelope/day2_to_day1.json",
+        "sha256": "dc01796f1f3ce01691dffa6c99182d99d508338180e151419443cd11a36eb7ff",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/envelope/neurascan_to_brk.json",
+        "sha256": "62282fb723f2d20a5a287ceca1dc61d7a9ddf185d55351b26e7fc4a1b755a597",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/mel_10/day1_to_day2.json",
+        "sha256": "e39377536936ab63fae8a7931c4daaf7239fd4bba1ecdea3604b058ed2592a58",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/mel_10/day2_to_day1.json",
+        "sha256": "7359b51bac79ad1777475849cd6917c5a778aa2b574a0560d87784f1f70d1488",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/mel_10/neurascan_to_brk.json",
+        "sha256": "c698750061b8ce17e504fbf3117327c785bb16994310faabd8167c8fca8a9e02",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/wav2vecbase9/day1_to_day2.json",
+        "sha256": "807857857671542dcdece543ad9324d757f3d9d56ce93df8d7acb28bc18e07fd",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/wav2vecbase9/day2_to_day1.json",
+        "sha256": "8e1fbf3a6be9165f3d8dae2d5f1f4f9fddf6803c1ebc5a98226c976d6672554a",
+        "missing_cells": []
+      },
+      {
+        "path": "module_B_sda/wav2vecbase9/neurascan_to_brk.json",
+        "sha256": "0f5ab326a373e15a7a73273f14012bf8986f636cbde747710642e7c41c0f18bb",
+        "missing_cells": []
+      }
+    ],
+    "cells": 6225,
+    "present": 6225,
+    "missing": 0,
+    "precision": "data_raw * 100, formatted to 2 decimal places (percentage points)"
+  },
+  "reference_checks": [
+    {
+      "table": "zero_shot_vs_chance",
+      "rows": 6,
+      "match": true
+    },
+    {
+      "table": "paired_generalization_penalty",
+      "rows": 6,
+      "match": true
+    },
+    {
+      "table": "paired_sparse_gain_vs_zero_shot",
+      "rows": 6,
+      "match": true
+    },
+    {
+      "table": "paired_s2_vs_s3",
+      "rows": 12,
+      "match": true
+    },
+    {
+      "table": "fixed_source_comparison",
+      "rows": 3,
+      "match": true
+    },
+    {
+      "table": "figure4_source_values",
+      "rows": 102,
+      "match": true
+    }
+  ],
+  "export_rounding_audit": {
+    "max_abs_numeric_difference": 0.002205938348325276,
+    "families": {
+      "zero_shot_vs_chance": 0.002205938348325276,
+      "paired_generalization_penalty": 0.0015923823728734021,
+      "paired_sparse_gain_vs_zero_shot": 0.0015807269467842389,
+      "paired_s2_vs_s3": 0.0020481319095395634,
+      "fixed_source_comparison": 0.001753899060451758
+    },
+    "holm_decisions_unchanged": true,
+    "one_decimal_display_changes": [
+      {
+        "family": "paired_generalization_penalty",
+        "row": 3,
+        "feature": "Mel-10",
+        "column": "mean_diff",
+        "full": 16.8,
+        "rounded_export": 16.9
+      },
+      {
+        "family": "fixed_source_comparison",
+        "row": 2,
+        "feature": "wav2vec 2.0",
+        "column": "ci_high",
+        "full": 9.0,
+        "rounded_export": 8.9
+      }
+    ]
+  },
+  "bundled_csv_files_verified": 21,
+  "statistical_tests": 33,
+  "calibration_mean_sem_rows": 102,
+  "versions": {
+    "numpy": "2.0.2",
+    "pandas": "2.2.3",
+    "scipy": "1.13.1",
+    "matplotlib": "3.9.4"
+  }
+}
